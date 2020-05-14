@@ -6,4 +6,4 @@
 - [I Am Rich](https://github.com/RaghavTheGreat1/I_Am_Rich)
 - [I Am Poor](https://github.com/RaghavTheGreat1/i_am_poor)
 - [BMI Calculator](https://github.com/RaghavTheGreat1/bmi_calculator)
-- [Fruits Delivery](https://github.com/RaghavTheGreat1/fruit_delivery)
+- [Fruits Delivery](https://github.com/RaghavTheGreat1/fruits_delivery)
